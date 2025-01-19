@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-& Bro von [MatrixHacker](https://github.com/G-e-l-a)
+& Bro von [MatrixHacker](https://github.com/Znih)
 
 <!---
 G-e-l-a/G-e-l-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
