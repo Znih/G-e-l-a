@@ -12,3 +12,7 @@
 G-e-l-a/G-e-l-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Beginne Bearbeitung ... @g-e-l-a
+
+![Bildschirmfoto vom 2025-01-22 02-42-03](https://github.com/user-attachments/assets/aba5b8e0-ba42-452c-9bf3-4a84f555b778)
