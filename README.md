@@ -36,6 +36,8 @@ Quelle: [MatrixHacker](https://github.com/Artikel-278-VV/Artikel-278-VV/blob/mai
 - [Persönliche Website](https://www.matrixhacker.de) 502 da Zwangsabschaltung durch Hetzner drohte, aufgrund politischer Weisungen, denn hier der wohl [tatsächliche Grund dafür](https://web.archive.org/web/20201021014800/https://matrixhacker.de/).
 - DE-2016-GLL-3103580692 DNB https://d-nb.info/1100400095/34 (nicht @Znih)
 
+Ich übe noch und MH unterstützt mich dabei (rector).
+
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
 & Bro von [MatrixHacker](https://github.com/Znih) ©® [zfV.](https://www.copyright.gov/fair-use/)
