@@ -17,7 +17,7 @@ um dann Allen und Jedem bereitzustellen, sofern aufrichtig gewünscht und soweit
 
 Quelle: [MatrixHacker](https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/20240801_Aufsatz_deutsche-Staatsangehoerigkeit_Deutsche-Buergerschaft_Waffe-StAG_berichtigte-Fassung.pdf)
 
-- 👋 Hallo, ich bin @G-e-l-a
+- 👋 Hallo, ich bin @xxxxxxxxxx
 - 👀 Ich interessiere mich für ...
 - 🌱 Ich lerne gerade ...
 - 💞️ Ich suche nach einer Zusammenarbeit bei ...
@@ -59,6 +59,14 @@ You can click the Preview link to take a look at your changes.
 [goldenrule3.webm](https://github.com/user-attachments/assets/4fb495b2-d039-4e7a-ae64-6c07dca8b218)
 
 [goldenrule4.webm](https://github.com/user-attachments/assets/e2ad45f6-9560-426a-b227-7f15b3d40b30)
+
+[goldenrule5.webm](https://github.com/user-attachments/assets/4c35a72d-6116-467a-845f-8017d2a3418e)
+
+[goldenrule6.webm](https://github.com/user-attachments/assets/e395250e-4604-4c1f-815a-368e32c974b7)
+
+[goldenrule7.webm](https://github.com/user-attachments/assets/17e06136-6721-4b64-80a0-985dda37231f)
+
+[goldenrule7.webm](https://github.com/user-attachments/assets/0b42a690-81c9-48c6-99c3-6933a83f22b1)
 
 
 [gr9.webm](https://github.com/user-attachments/assets/cfe99de2-3d76-4791-b423-7db67a866cb4)
