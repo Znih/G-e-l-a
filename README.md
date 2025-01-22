@@ -1,4 +1,6 @@
-<center># Artikel I – Ausgleich</center>
+<center>
+  # Artikel I – Ausgleich
+</center>
 
 `Behandle Leben so, daß es ohne Unheil bleibt, so wie Du selbst stets ohne Unheil bleiben willst.`
 
