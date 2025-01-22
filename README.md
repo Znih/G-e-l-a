@@ -38,14 +38,14 @@ Quelle: [MatrixHacker](https://github.com/Artikel-278-VV/Artikel-278-VV/blob/mai
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
-& Bro von [MatrixHacker](https://github.com/Znih)
+& Bro von [MatrixHacker](https://github.com/Znih) ©®
 
 <!---
 G-e-l-a/G-e-l-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# WhatsApp Happen
+### WhatsApp Happen
 
 <video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
 
