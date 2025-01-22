@@ -52,8 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 [goldenrule.webm](https://github.com/user-attachments/assets/739674e8-33ec-4a8a-9373-6b2a62516908)
 
-[goldenrule.webm](https://github.com/user-attachments/assets/c28530c0-bfdb-4006-af90-77f57b210f38)
-
 [goldenrule3.webm](https://github.com/user-attachments/assets/4fb495b2-d039-4e7a-ae64-6c07dca8b218)
 
 
