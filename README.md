@@ -38,7 +38,7 @@ Quelle: [MatrixHacker](https://github.com/Artikel-278-VV/Artikel-278-VV/blob/mai
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
-& Bro von [MatrixHacker](https://github.com/Znih) ©®
+& Bro von [MatrixHacker](https://github.com/Znih) ©® [zfV.](https://www.copyright.gov/fair-use/)
 
 <!---
 G-e-l-a/G-e-l-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
