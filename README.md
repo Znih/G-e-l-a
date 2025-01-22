@@ -4,7 +4,7 @@
 
 # Artikel II – Macht verpflichtet
 
-`Strebe nach Ansehen, Macht und Vermögen aber verletze Niemanden (Art. I), sondern beschütze und fördere stets die Schwächsten, soweit Du kannst.` **Macht zur Verantwortung wie Recht zur Pflicht.**
+`Strebe nach Ansehen, Macht und Vermögen aber verletze Niemanden ([Art. I](https://github.com/Znih/G-e-l-a/blob/main/README.md#artikel-i--ausgleich)), sondern beschütze und fördere stets die Schwächsten, soweit Du kannst.` **Macht zur Verantwortung wie Recht zur Pflicht.**
 
 # Artikel III – Wissen verpflichtet
 
