@@ -8,9 +8,9 @@
 
 # Artikel III – Wissen verpflichtet
 
-„Strebe nach Wissen und Erkenntnis aber verletze Niemanden (Art. I), sondern beschütze und bewahre,
-um dann Allen und Jedem bereitzustellen, sofern aufrichtig gewünscht und soweit Du kannst.“
-Wissen zur Verantwortung wie Recht zur Pflicht.
+`Strebe nach Wissen und Erkenntnis aber verletze Niemanden (Art. I), sondern beschütze und bewahre,
+um dann Allen und Jedem bereitzustellen, sofern aufrichtig gewünscht und soweit Du kannst.`
+**Wissen zur Verantwortung wie Recht zur Pflicht.**
 
 Quelle: [MatrixHacker](https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/20240801_Aufsatz_deutsche-Staatsangehoerigkeit_Deutsche-Buergerschaft_Waffe-StAG_berichtigte-Fassung.pdf)
 
