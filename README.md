@@ -1,3 +1,6 @@
+[goldenrule.webm](https://github.com/user-attachments/assets/739674e8-33ec-4a8a-9373-6b2a62516908)
+
+
 - 👋 Hi, I’m @G-e-l-a
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
