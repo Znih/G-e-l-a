@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 Beginne Bearbeitung ... @g-e-l-a
 
 ![Bildschirmfoto vom 2025-01-22 02-42-03](https://github.com/user-attachments/assets/aba5b8e0-ba42-452c-9bf3-4a84f555b778)
+[goldenrule.webm](https://github.com/user-attachments/assets/c28530c0-bfdb-4006-af90-77f57b210f38)
