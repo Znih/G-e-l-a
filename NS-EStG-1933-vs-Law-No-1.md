@@ -1,65 +1,35 @@
-Einkommenssteuergesetze (EStG)
+# Einkommenssteuergesetze (EStG)
+
 Als ein Beispiel der komplexen Verschleierung von NS-Gesetzen
-Wenn etwas zu komplex, zu unlogisch, zu verworren oder gar zu verschleiert (geheim) erschaffen
-worden ist, was jedoch Jedermann verstehen muß, um ein jede Friedensordnung wahrhaft einhalten oder
-erhalten zu können, muß grundlegend falsch sein und somit fundamental nichtig.
-Anders oder schöner formuliert
-Zitat: Es ist ein verfassungsrechtliches Minimum, daß die von einer Rechtsnorm Betroffenen ohne
-unzumutbare Umwege und Anstrengungen ihre Rechte und Pflichten, Obliegenheiten, ihnen zustehende
-Vorteile oder zu gewärtigende Nachteile im Gesetz erkennen können müssen, und zwar im Gesetz in
-der Form, in welcher es erlassen wird. [...] Damit haben sie ihr Problem der exakten
-Normtextermittlung im Widerspruch zu den rechtsstaatlichen Erfordernissen der Rechtsklarheit
-und -sicherheit an die Normadressaten weitergegeben.
-Wenn sich die Feststellung des authentischen Textes selbst für den Rechtskundigen schwierig
-gestaltet, weil der Normenbestand stark wächst, obsolet gewordene Vorschriften nicht ausdrücklich
-aufgehoben werden, viele Änderungsgesetze das zusammenhängende Erfassen eines Gesetzestextes
-erschweren, und Konkurrenzfragen bei Normen mit überschneidenden Anwendungsbereichen dazu
-führen, daß die Anforderungen des Normgebers unklar bleiben, [oder Änderungen ohne
-Sachzusammenhang vorsätzlich verschleiert werden, w.z.B StA, EGOWiG,] entsteht beim betroffenen
-Bürger Rechtsunsicherheit. Eine staatliche Rechtsbereinigungsaktion stellt sich in einer solchen – in
-regelmäßigen Abständen auftretenden – Situation als ein "unabweisbares Bedürfnis" dar. Die
-Begründung des Landesjustizministers Walter zum Vierten Rechtsbereinigungsgesetz des Saarlandes
-beginnt daher mit den Worten: „Es gehört zu den ständigen Aufgaben des Staates, den geltenden
-Rechtsbestand für alle rechtsanwendenden Stellen und für die betroffenen Bürger zugänglich und
-überschaubar zu halten. Dieser letztlich im Rechtsstaatsprinzip wurzelnden Aufgabe diente... (die
-Bereinigte Sammlung Saar...) ...ist nunmehr eine erneute Rechtsbereinigung mit konstitutiver Wirkung
-erforderlich.“ [...]
-Eine unübersichtliche Rechtslage kann den Rechtsstaat hemmen und somit einem tragenden
-Verfassungsprinzip im Wege stehen. Die fehlende Kenntnis des Rechts stellt die
-Dispositionsmöglichkeiten des Einzelnen in Frage. Seine Entscheidungsfreiheit wird durch Teil-
-Unkenntnis eingeengt. Herzog sagte hierzu: „Auch das lückenloseste Netz kann nicht verhindern, (...)
-daß Ansprüche von Bürgern unerfüllt bleiben, weil sie gerade wegen der Gesetzesflut von ihren
-Ansprüchen gar keine Kenntnis erhalten.“ Als Folge von Gesetzesperfektionismus und der
-Überregulierung werden Bürger dem Gesetz entfremdet und empfinden eine undurchschaubare
-Rechtsordnung als etwas Feindliches und Bedrohliches. Sie wird zu einem unberechenbaren
-Störfaktor bei der Suche nach rationalen Entscheidungen im Beruf und im Privatleben.
-Unzureichende Information des Bürgers über das Recht schafft eine Freiheitsbeschränkung
-aufgrund der Rechtsunsicherheit. Eine Einengung der Entscheidungsspielräume durch
-Desinformation ist von keinem Gesetz gedeckt. Angesichts der Tragweite der Grundrechte
-berührt dies die Rechtsstaatlichkeit, und zwar unter dem Blickwinkel des Gesetzesvorbehalts. Die
-Regel, daß Beschränkungen der Handlungsfreiheit einer gesetzlichen Grundlage bedürfen, hat ihren
-Sinn unter anderem darin, daß Rechtsfolgen durch hinreichende Publikation vorhersehbar gemacht
-werden. Wenn einmal eine unsystematische, aber zahlreiche Normenproduktion stattgefunden hat, dann
-werden einzelne Regelungen verschüttet, die dennoch Geltung beanspruchen. [...]
-Der Zugang zur Rechtsordnung muß durch systematische übersichtliche Gesamtpräsentation
-erleichtert werden. Dies kann mit Hilfe guter verbindlicher Bereinigter Sammlungen sowie Normendatenbanken mit verständlicher Recherche gemacht werden und wird auch - mit Abstrichen -
-praktiziert. [...] Wo es darüber hinaus auch keine vollständige und aktuelle Bereinigte Sammlung gibt,
-bleibt man hinter den Forderungen der Rechtsstaatlichkeit zurück.
+Wenn etwas zu komplex, zu unlogisch, zu verworren oder gar zu verschleiert (geheim) erschaffen worden ist, was jedoch Jedermann verstehen muß, um ein jede Friedensordnung wahrhaft einhalten oder erhalten zu können, muß grundlegend falsch sein und somit fundamental nichtig.
+
+Anders oder schöner formuliert Zitat:
+
+`Es ist ein verfassungsrechtliches Minimum, daß die von einer Rechtsnorm Betroffenen ohne unzumutbare Umwege und Anstrengungen ihre Rechte und Pflichten, Obliegenheiten, ihnen zustehende Vorteile oder zu gewärtigende Nachteile im Gesetz erkennen können müssen, und zwar im Gesetz in der Form, in welcher es erlassen wird. [...] Damit haben sie ihr Problem der exakten Normtextermittlung im Widerspruch zu den rechtsstaatlichen Erfordernissen der Rechtsklarheit und -sicherheit an die Normadressaten weitergegeben.
+Wenn sich die Feststellung des authentischen Textes selbst für den Rechtskundigen schwierig gestaltet, weil der Normenbestand stark wächst, obsolet gewordene Vorschriften nicht ausdrücklich aufgehoben werden, viele Änderungsgesetze das zusammenhängende Erfassen eines Gesetzestextes
+erschweren, und Konkurrenzfragen bei Normen mit überschneidenden Anwendungsbereichen dazu führen, daß die Anforderungen des Normgebers unklar bleiben, [oder Änderungen ohne Sachzusammenhang vorsätzlich verschleiert werden, w.z.B StA, EGOWiG,] entsteht beim betroffenen Bürger Rechtsunsicherheit. Eine staatliche Rechtsbereinigungsaktion stellt sich in einer solchen – in
+regelmäßigen Abständen auftretenden – Situation als ein "unabweisbares Bedürfnis" dar. Die Begründung des Landesjustizministers Walter zum Vierten Rechtsbereinigungsgesetz des Saarlandes beginnt daher mit den Worten: „Es gehört zu den ständigen Aufgaben des Staates, den geltenden Rechtsbestand für alle rechtsanwendenden Stellen und für die betroffenen Bürger zugänglich und
+überschaubar zu halten. Dieser letztlich im Rechtsstaatsprinzip wurzelnden Aufgabe diente... (die Bereinigte Sammlung Saar...) ...ist nunmehr eine erneute Rechtsbereinigung mit konstitutiver Wirkung erforderlich.“ [...]
+Eine unübersichtliche Rechtslage kann den Rechtsstaat hemmen und somit einem tragenden Verfassungsprinzip im Wege stehen. Die fehlende Kenntnis des Rechts stellt die Dispositionsmöglichkeiten des Einzelnen in Frage. Seine Entscheidungsfreiheit wird durch Teil-Unkenntnis eingeengt. Herzog sagte hierzu: „Auch das lückenloseste Netz kann nicht verhindern, (...) daß Ansprüche von Bürgern unerfüllt bleiben, weil sie gerade wegen der Gesetzesflut von ihren
+Ansprüchen gar keine Kenntnis erhalten.“ Als Folge von Gesetzesperfektionismus und der Überregulierung werden Bürger dem Gesetz entfremdet und empfinden eine undurchschaubare Rechtsordnung als etwas Feindliches und Bedrohliches. Sie wird zu einem unberechenbaren Störfaktor bei der Suche nach rationalen Entscheidungen im Beruf und im Privatleben.
+
+Unzureichende Information des Bürgers über das Recht schafft eine Freiheitsbeschränkung aufgrund der Rechtsunsicherheit. Eine Einengung der Entscheidungsspielräume durch Desinformation ist von keinem Gesetz gedeckt. Angesichts der Tragweite der Grundrechte berührt dies die Rechtsstaatlichkeit, und zwar unter dem Blickwinkel des Gesetzesvorbehalts. Die Regel, daß Beschränkungen der Handlungsfreiheit einer gesetzlichen Grundlage bedürfen, hat ihren Sinn unter anderem darin, daß Rechtsfolgen durch hinreichende Publikation vorhersehbar gemacht werden. Wenn einmal eine unsystematische, aber zahlreiche Normenproduktion stattgefunden hat, dann werden einzelne Regelungen verschüttet, die dennoch Geltung beanspruchen. [...]
+
+Der Zugang zur Rechtsordnung muß durch systematische übersichtliche Gesamtpräsentation erleichtert werden. Dies kann mit Hilfe guter verbindlicher Bereinigter Sammlungen sowie Normendatenbanken mit verständlicher Recherche gemacht werden und wird auch - _mit Abstrichen_ - praktiziert. [...]
+Wo es darüber hinaus auch keine vollständige und aktuelle Bereinigte Sammlung gibt,
+bleibt man hinter den (An-)Forderungen der Rechtsstaatlichkeit zurück.
 Quelle:
 http://www.jura.uni-sb.de/Rechtsbereinigung/Dissertation/Bereinig-I.html
-Es folgt ein unvollständiges aber aussagekräftiges Beispiel, wie man es aus Sicht jedes Machthabers tun
-sollte und wie man es aus Sicht jedes Bürgers nie akzeptieren sollte. Die Einkommenssteuer von
-heute zurück zum Ursprung 1939, respektive 1933, ins Weimarer Dritte Reich. Im obigen
-Dissertationsauszug wird nicht von bösem Willen und Vorsatz ausgegangen, schließlich sollte die Arbeit
-auch angenommen werden. Tatsächlich jedoch sind die folgenden 2662 Seiten ein eindeutiger Beweis
-dafür, daß nur ein böser Wille und Vorsatz, ein solch destruktives „Ergebnis“ erzeugt haben kann. Eine
-Bereinigung würde die Tarnung gefährden.
-Jeder der das EStG oder die [R]AO einsetzt, muß sich den Vorwurf gefallen lassen, daß er
-wissentlich gegen Recht und Sitte verstößt, sobald er diese anwendet. Nebenbei würde damit eines der
-wichtigsten Gesetze des Dritten Reichs zum Aufbau des Reichs und Enteignungsmöglichkeiten
-gegen Feinde des Reichs – so wie heute – mittels Verschleierung anwendet gebracht werden.BGBl. III
-Jeder der etwas abweichendes behauptet, darf die folgenden Seiten studieren, Gegenargumente
-finden oder ist schlicht Teil des Problems.
+
+Es folgt ein unvollständiges aber aussagekräftiges Beispiel, wie man es aus Sicht jedes Machthabers tun sollte und wie man es aus Sicht jedes Bürgers nie akzeptieren sollte. Die Einkommenssteuer von heute zurück zum Ursprung 1939, respektive 1933, ins Weimarer Dritte Reich. Im obigen Dissertationsauszug wird nicht von bösem Willen und Vorsatz ausgegangen, schließlich sollte die Arbeit
+auch angenommen werden. Tatsächlich jedoch sind die folgenden 2662 Seiten ein eindeutiger Beweis dafür, daß nur ein böser Wille und Vorsatz, ein solch destruktives „Ergebnis“ erzeugt haben kann. Eine Bereinigung würde die Tarnung gefährden.
+
+Jeder der das EStG oder die [R]AO einsetzt, muß sich den Vorwurf gefallen lassen, daß er wissentlich gegen Recht und Sitte verstößt, sobald er diese anwendet. Nebenbei würde damit eines der wichtigsten Gesetze des Dritten Reichs zum Aufbau des Reichs und Enteignungsmöglichkeiten gegen Feinde des Reichs – so wie heute – mittels Verschleierung anwendet gebracht werden.BGBl. III
+Jeder der etwas abweichendes behauptet, darf die folgenden Seiten studieren, Gegenargumente finden oder ist schlicht Teil des Problems.
+
+in Arbeit ... @G-e-l-a @Znih
+
+
 Es folgt eine unvollständige Liste der wichtigsten Gesetze und Verordnungen – im Anhang ab Seite
 7 die Faksimiles zur Selbstprüfung –, um der Öffentlichkeit mit offiziellen Primärquellen als
 durchsuchbares PDF zu zeigen, und um den Beamten zu beweisen, daß das EStG aus gleich mehreren
