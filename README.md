@@ -60,10 +60,6 @@ You can click the Preview link to take a look at your changes.
 
 [goldenrule4.webm](https://github.com/user-attachments/assets/a48ec2e2-81ac-4f72-8445-dd44c28fba56)
 
-
-[goldenrule2.webm](https://github.com/user-attachments/assets/525f9626-a2e6-4802-a463-2b855b216e8a)
-
-
 [gr9.webm](https://github.com/user-attachments/assets/cfe99de2-3d76-4791-b423-7db67a866cb4)
 
 https://github.com/user-attachments/assets/7d26eb82-9577-468e-8505-73bb95e1b1f3
