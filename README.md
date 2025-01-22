@@ -1,11 +1,10 @@
 # Artikel I – Ausgleich
 
-„Behandle Leben so, daß es ohne Unheil bleibt, so wie Du selbst stets ohne Unheil bleiben willst.“
+`_Behandle Leben so, daß es ohne Unheil bleibt, so wie Du selbst stets ohne Unheil bleiben willst._`
 
 # Artikel II – Macht verpflichtet
 
-„Strebe nach Ansehen, Macht und Vermögen aber verletze Niemanden (Art. I), sondern beschütze und
-fördere stets die Schwächsten, soweit Du kannst.“ Macht zur Verantwortung wie Recht zur Pflicht.
+„Strebe nach Ansehen, Macht und Vermögen aber verletze Niemanden (Art. I), sondern beschütze und fördere stets die Schwächsten, soweit Du kannst.“ Macht zur Verantwortung wie Recht zur Pflicht.
 
 # Artikel III – Wissen verpflichtet
 
