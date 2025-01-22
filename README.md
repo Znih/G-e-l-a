@@ -58,7 +58,8 @@ You can click the Preview link to take a look at your changes.
 
 [goldenrule3.webm](https://github.com/user-attachments/assets/4fb495b2-d039-4e7a-ae64-6c07dca8b218)
 
-[goldenrule4.webm](https://github.com/user-attachments/assets/a48ec2e2-81ac-4f72-8445-dd44c28fba56)
+[goldenrule4.webm](https://github.com/user-attachments/assets/e2ad45f6-9560-426a-b227-7f15b3d40b30)
+
 
 [gr9.webm](https://github.com/user-attachments/assets/cfe99de2-3d76-4791-b423-7db67a866cb4)
 
